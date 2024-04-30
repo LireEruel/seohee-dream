@@ -3,7 +3,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <a-button>마닝ㄹㄴㅇ</a-button>
 </template>
+
+<style></style>
